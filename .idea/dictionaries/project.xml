@@ -5,6 +5,7 @@
       <w>modid</w>
       <w>modloading</w>
       <w>preinit</w>
+      <w>waystone</w>
     </words>
   </dictionary>
 </component>

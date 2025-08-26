@@ -1,17 +1,17 @@
 package org.fish.journeytobaoji.food;
 
+
 import net.minecraft.item.*;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import org.fish.journeytobaoji.main.JourneyToBaoji;
 
 import java.util.function.Supplier;
 
 public class FoodItems {
 
-    public static final DeferredRegister<Item> FOODITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, JourneyToBaoji.MODID+"-food");//modid:journeytobaoji-food
+    public static final DeferredRegister<Item> FOODITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, FoodMain.MODEL_ID);
 
     public static void init() {
         FOODITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
