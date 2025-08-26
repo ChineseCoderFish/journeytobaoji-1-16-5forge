@@ -10,3 +10,5 @@
 - 它可能会融百家之长(dong'pin'xi'cou)包括不限于原神的拾取交互、工作方块与对话交互、任务系统，黑神话悟空的丝滑战斗等（截至目前就酱^_^）
 - 我们的工作集中在宝鸡，但Terrarium本就是整个地球，你可以到处转（
 - 这玩意能不能创业？:)
+## 源
+- Waystones: https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x
