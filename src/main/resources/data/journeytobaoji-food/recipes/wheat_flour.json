@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {"item": "minecraft:wheat"}
+  ],
+  "result": {
+    "item": "journeytobaoji-food:wheat_flour"
+  }
+}

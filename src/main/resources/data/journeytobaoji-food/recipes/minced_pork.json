@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {"item": "minecraft:cooked_porkchop"}
+  ],
+  "result": {
+    "item": "journeytobaoji-food:minced_pork"
+  }
+}

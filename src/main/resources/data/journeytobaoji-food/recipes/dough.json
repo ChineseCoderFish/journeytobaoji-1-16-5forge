@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {"item": "journeytobaoji-food:wheat_flour"},
+    {"item": "journeytobaoji-food:batter"}
+  ],
+  "result": {
+    "item": "journeytobaoji-food:dough"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "journeytobaoji-food:batter"
+  },
+  "result": "journeytobaoji-food:stirred_paste",
+  "experience": 0.5,
+  "cookingtime": 720
+}
