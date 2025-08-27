@@ -1,4 +1,4 @@
-# 宝鸡之旅 JourneyToBaoji 
+# 宝鸡之旅 
 ## 宝鸡是哪儿？
 - 百度去！
 - 我的家乡~我们的南边是秦岭连绵一大片的壮观，北塬是麦田绿到地平线的悠哉:)
@@ -13,3 +13,18 @@
 ## 项目部分模块移植的源
 - [Waystones](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
 - [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
+
+# JourneyToBaoji
+## Where's Baoji?
+- Located in Shaanxi Province,China,baoji is my hometown,a happy place:)
+- There are so many montains around us.The Northern of Baoji is West Montain,the center is mini plain,and the southern is QingLing Montains:)
+
+## What's your plan about this program:)
+- Firstly,I'm a numb,even cannot Java:(.
+- So,I will develop it after entering collenge～about 3 years after:)
+- We(really only me) will only develop sth about Baoji,
+- but you still be able to travel around world:)
+## Sources We Use:
+- [Waystones](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
+- [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
+
