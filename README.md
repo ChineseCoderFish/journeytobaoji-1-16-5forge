@@ -12,8 +12,9 @@
 - 这玩意能不能创业？:)
 - 参见issue,
 ## 项目部分模块移植的源
-- [Waystones](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
+- [传送石碑](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
 - [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
+- [旅人标题](https://bgithub.xyz/YUNG-GANG/Travelers-Titles/tree/forge/1.16)
 ---
 # JourneyToBaoji
 ## Where's Baoji?
@@ -28,4 +29,5 @@
 ## Sources We Use:
 - [Waystones](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
 - [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
+- [Teaveller's Title](https://bgithub.xyz/YUNG-GANG/Travelers-Titles/tree/forge/1.16)
 
