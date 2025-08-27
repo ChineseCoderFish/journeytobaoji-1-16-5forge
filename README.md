@@ -11,5 +11,5 @@
 - 我们的工作集中在宝鸡，但Terrarium本就是整个地球，你可以到处转（
 - 这玩意能不能创业？:)
 ## 项目部分模块移植的源
--Waystones:https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x
+- Waystones:https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x
 - Terrarium:https://bgithub.xyz/Gegy/Terrarium
