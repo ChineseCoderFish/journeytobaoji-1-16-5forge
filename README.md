@@ -23,7 +23,7 @@
 - Firstly,I'm a numb,even cannot Java:(.
 - So,I will develop it after entering collenge～about 3 years after:)
 - We(really only me) will only develop sth about Baoji,
-- but you still be able to travel around world:)
+- but you still be able to travel around world :D
 ## Sources We Use:
 - [Waystones](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
 - [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
