@@ -12,7 +12,7 @@
 - 它可能会融百家之长(dong'pin'xi'cou)包括不限于原神的拾取交互、工作方块与对话交互、任务系统，黑神话悟空的丝滑战斗等（截至目前就酱^_^）
 - 我们的工作集中在宝鸡，但Terrarium本就是整个地球，你可以到处转（
 - 这玩意能不能创业？:)
-- 参见issue,
+- 参见issue,全是饼:p 
 ## 项目部分模块移植的源
 - [传送石碑](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
 - [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
@@ -20,18 +20,21 @@
 - [作物离线生长](https://bgithub.xyz/TacticalSpike/OfflineGrowth)
 ---
 # JourneyToBaoji
+_ps:I'm a Chinese high school student,so I have a poor English :D _
+_，Accurate meaning is at Chinese introduction :D_
 ## Why do yoi develop this mod?
-- To travel without money
-- In the furture,we must cut down computer configuration that it need,in order to cut down money it need.
+- To travel without money 
+- In the furture,we will cut down computer configuration that it need,in order to cut down money for computer it need.
 ## Where's Baoji?
 - Located in Shaanxi Province,China,baoji is my hometown,a happy place:)
 - There are so many montains around us.The Northern of Baoji is West Montain,the center is mini plain,and the southern is QingLing Montains:)
-
 ## What's your plan about this program:)
-- Firstly,I'm a numb,even cannot Java:(.
+- Firstly,I'm a beginner,even cannot Java :( .
 - So,I will develop it after entering collenge～about 3 years after:)
 - We(really only me) will only develop sth about Baoji,
 - but you still be able to travel around world :D
+- It will introduce some troditional culture to you in Minecraft in the way of CG animation,too,like [Genshin Impact](https://www.yuanshen.com/#/) or [WuKong](https://gamesci.cn/wukong/).
+- you can have so many locate food online,including Chinese Sloppy Joe(肉夹馍),Stirred Paste(搅团),etc.
 ## Sources We Use:
 - [Waystones](https://bgithub.xyz/TwelveIterationMods/Waystones/tree/1.16.x)
 - [Terrarium](https://bgithub.xyz/Gegy/Terrarium)
