@@ -1,4 +1,6 @@
 # 宝鸡之旅 
+## 为什么需要这个模组？
+- 正如文章所说，穷人不配乱跑
 ## 宝鸡是哪儿？
 - 百度去！
 - 我的家乡~我们的南边是秦岭连绵一大片的壮观，北塬是麦田绿到地平线的悠哉:)
@@ -18,6 +20,9 @@
 - [作物离线生长](https://bgithub.xyz/TacticalSpike/OfflineGrowth)
 ---
 # JourneyToBaoji
+## Why do yoi develop this mod?
+- To travel without money
+- In the furture,we must cut down computer configuration that it need,in order to cut down money it need.
 ## Where's Baoji?
 - Located in Shaanxi Province,China,baoji is my hometown,a happy place:)
 - There are so many montains around us.The Northern of Baoji is West Montain,the center is mini plain,and the southern is QingLing Montains:)
