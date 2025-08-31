@@ -1,7 +1,9 @@
 # 宝鸡之旅  
 Hi˶ᵒ ᵕ ˂˶✨
 ## 为什么需要这个模组？
-- 正如报告所说，穷人不配乱跑
+- 旅游对大多数人开销较大
+- 我们想要走出去，或让他人走进来
+- 不妨可以游山玩水，见见世面
 ## 宝鸡是哪儿？
 - 百度去！
 - 我的家乡:D我们的南边是秦岭连绵一大片的壮观，北塬是麦田绿到地平线的悠哉:)
@@ -26,7 +28,7 @@ Hi˶ᵒ ᵕ ˂˶✨
 - _Accurate meaning is at Chinese introduction :D_ <br>
 Hi˶ᵒ ᵕ ˂˶ ✨
 ## Why do you develop this mod? O.o
-- To travel without money 
+- To travel around world with few money ToT
 - In the furture,we will cut down computer configuration that it need,in order to cut down money for computer it need.
 ## How's Baoji? o.O
 - Located in Shaanxi Province,China,baoji is my hometown,a happy place:)
