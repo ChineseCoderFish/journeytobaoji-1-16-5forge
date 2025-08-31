@@ -26,7 +26,7 @@ Hi˶ᵒ ᵕ ˂˶✨
 # JourneyToBaoji ˶ᵒ ᵕ ˂˶ 
 - _**ps**:I'm a Chinese high school student,so I have a poor English 😅_
 - _Accurate meaning is at Chinese introduction :D_ <br>
-Hi˶ᵒ ᵕ ˂˶ ✨
+#### Hi˶ᵒ ᵕ ˂˶ ✨
 ## Why do you develop this mod? O.o
 - To travel around world with few money ToT
 - In the furture,we will cut down computer configuration that it need,in order to cut down money for computer it need.
